@@ -1,3 +1,5 @@
 # CTF_ChallengeMe
 
-Đây là nơi tổng hợp các challenge CTF mình đã tham gia 
+Đây là repository mà mình lưu trữ lại các challenge mà mình đã tham gia trong thời gian vừa qua 
+
+Sẽ còn update tiếp 
